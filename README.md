@@ -2,7 +2,7 @@
 
 **`Estudante de Cybersec`**
 
-Estudante de Ciência da Computação focado em Red Team e segurança ofensiva. Trabalho com análise de vulnerabilidades, scripting para automação (Python/Bash) e técnicas de exploração. Sempre buscando desafios, oportunidades para aplicar e evoluir minhas habilidades em Segurança Ofensiva.
+Estudante de Ciência da Computação focado em Red Team e segurança ofensiva. Foco em análise de vulnerabilidades, scripting para automação (Python/Bash) e técnicas de exploração. Sempre buscando desafios, oportunidades para aplicar e evoluir minhas habilidades em Segurança Ofensiva.
 
 <p align="left"> 
     <a href="https://github.com/batata902?tab=repositories&sort=stargazers">
