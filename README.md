@@ -1,4 +1,4 @@
-# 🕵️ LazByte
+# 🕵️ JeRM
 
 **`Estudante de Cybersec`**
 
